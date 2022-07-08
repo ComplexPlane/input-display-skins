@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="ComplexPlane GameCube" author="ComplexPlane" type="gamecube">
+
+    <background name="ComplexPlane GameCube" image="ring.png" />
+
+    <button name="a" image="a.png" x="0" y="0" width="500" height="406" />
+    <button name="b" image="b.png" x="0" y="0" width="500" height="406" />
+    <button name="start" image="start.png" x="0" y="0" width="500" height="406" />
+    <stick xname="lstick_x" yname="lstick_y" image="stick.png"
+           x="169" y="163" width="60" height="60" xrange="170" yrange="170" />
+</skin>

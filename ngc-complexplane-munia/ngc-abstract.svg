@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:munia="http://www.munia.io/namespaces/munia"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1385"
+   version="1.1"
+   viewBox="0 0 100 100"
+   sodipodi:docname="ngc-abstract.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1607"
+     inkscape:window-height="1128"
+     id="namedview19"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1385" />
+  <munia:info
+     munia:skin-name="Gamecube Abstract"
+     munia:device-type="NGC" />
+  <defs
+     id="defs1379">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="280.58279"
+       x2="79.789749"
+       y1="258.44095"
+       x1="42.985138"
+       id="linearGradient1356"
+       xlink:href="#linearGradient1354"
+       gradientTransform="matrix(-0.18118214,1.7006142,-1.7005878,-0.18118485,510.13085,-3.4324)" />
+    <linearGradient
+       id="linearGradient1354">
+      <stop
+         id="stop1350"
+         offset="0"
+         style="stop-color:#00c4e4;stop-opacity:1" />
+      <stop
+         style="stop-color:#8114ff;stop-opacity:1"
+         offset="0.53876549"
+         id="stop1358" />
+      <stop
+         id="stop1352"
+         offset="1"
+         style="stop-color:#b000d9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata1382">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient1356);stroke-width:6;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path9112"
+     d="M 14.822073,78.775297 C 14.41425,78.36964 3.746397,52.808116 3.7448533,52.232892 3.7433605,51.657675 14.274437,26.039502 14.680095,25.631674 15.085737,25.223842 40.64687,14.55581 41.222097,14.554275 c 0.57521,-0.0015 26.192979,10.529755 26.600802,10.935411 0.407824,0.405657 11.075676,25.967181 11.07722,26.542405 0.0015,0.575217 -10.529583,26.19339 -10.935242,26.601218 -0.405659,0.40783 -25.966775,11.075864 -26.542001,11.077399 -0.575211,0.0015 -26.19298,-10.529755 -26.600803,-10.935411 z" />
+  <circle
+     style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.32149339;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path9116"
+     cy="52.132492"
+     cx="41.322487"
+     munia:offset-scale="0.27"
+     munia:axis-v="1"
+     munia:axis-h="0"
+     munia:stick-id="0"
+     transform="translate(1, 2)"
+     r="6" />
+  <ellipse
+     style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#f7f7f7;stroke-width:1.75926495;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path9122"
+     cx="-92.974937"
+     cy="51.850418"
+     transform="scale(-1,1)"
+     rx="4.6238446"
+     ry="4.6086216"
+     munia:button-state="released"
+     munia:button-id="4" />
+  <ellipse
+     style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#45c21f;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="circle9126"
+     cx="-89.34317"
+     cy="29.595535"
+     transform="scale(-1,1)"
+     rx="7.8161411"
+     ry="7.7900233"
+     munia:button-state="released"
+     munia:button-id="0" />
+  <ellipse
+     ry="7.7900233"
+     rx="7.8161411"
+     transform="scale(-1,1)"
+     cy="73.641052"
+     cx="-89.34317"
+     id="ellipse12052"
+     style="display:inline;opacity:1;fill:none;fill-opacity:0.55944058;stroke:#ff4a4a;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     munia:button-state="released"
+     munia:button-id="1" />
+  <ellipse
+     ry="7.7900233"
+     rx="7.8161411"
+     transform="scale(-1,1)"
+     cy="29.595535"
+     cx="-89.34317"
+     id="ellipse2016"
+     style="display:inline;opacity:1;fill:#45c21f;fill-opacity:1;stroke:#45c21f;stroke-width:1.75926495;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     munia:button-state="pressed"
+     munia:button-id="0" />
+  <circle
+     transform="scale(-1,1)"
+     cy="51.338673"
+     cx="-93.471458"
+     id="ellipse2018"
+     style="display:inline;opacity:1;fill:#f7f7f7;fill-opacity:1;stroke:#f7f7f7;stroke-width:1.92064404;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     munia:button-state="pressed"
+     munia:button-id="4"
+     r="5.0396781" />
+  <ellipse
+     style="display:inline;opacity:1;fill:#ff4a4a;fill-opacity:1;stroke:#ff4a4a;stroke-width:1.75926495;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="ellipse2020"
+     cx="-89.34317"
+     cy="73.641052"
+     transform="scale(-1,1)"
+     rx="7.8161411"
+     ry="7.7900233"
+     munia:button-state="pressed"
+     munia:button-id="1" />
+</svg>
